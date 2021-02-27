@@ -1,5 +1,5 @@
 # Move-it
-Aplicação para executar atividades de relaxamento físico, feito com <strong>REACT</strong>.
+Application to remember to do physical relaxation activities, made with <strong>React</strong> and using <strong>Typescript</strong>.
 <p>
   <img alt="Version" src="https://img.shields.io/badge/Version-1.0.0-blue" />
   <a href="https://moveit-inky-kappa.vercel.app/" target="_blank">
@@ -14,7 +14,27 @@ Aplicação para executar atividades de relaxamento físico, feito com <strong>R
 
 ## Preview
 
-![photo](https://github.com/edulima2412/todo-app-react/blob/master/frontend/src/images/preview.PNG)
+![preview](https://user-images.githubusercontent.com/28990547/109399159-de922980-791f-11eb-8d40-04e6c3c221ed.PNG)
 
-## Frontend
+## Dependencys
 * React
+* NextJs
+* Js-Cookie
+* Yarn
+* Typescript
+
+
+## Install
+```javascript
+yarn install
+```
+
+## Build
+```javascript
+yarn build
+```
+
+## Start
+```javascript
+yarn start
+```
